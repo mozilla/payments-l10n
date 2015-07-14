@@ -19,12 +19,20 @@ ready_locales = [
 root = os.path.abspath(os.path.join(os.path.dirname(__file__)))
 
 
-def pull(config_dir, prefix):
-    filename = os.path.join(root, config_dir, 'products.py')
+def generate_pot(prefix):
+    print 'Generating .pot from {}.'.format(prefix)
+    if prefix == 'payments-ui':
+        raise ValueError('Use i18n abide to generate the .pot file.')
+
+    # Hardcoded for payments_config at the moment.
+    filename = os.path.join(root, '..', prefix, 'payments_config/products.py')
     cmd = ('xgettext {} -o locale/templates/LC_MESSAGES/{}.pot'
            .format(filename, prefix))
     os.system(cmd)
 
+
+def generate_po(prefix):
+    print 'Generating .po from {}.'.format(prefix)
     for locale in possible_locales:
         if locale == 'templates':
             continue
@@ -51,34 +59,19 @@ def generate_mo(prefix):
         os.system(cmd)
 
 
-def generate_po(prefix):
-    print 'Generating .po from payments-config.'
-    config_dir = os.path.abspath('../payments-config/payments_config')
-    if not os.path.exists(config_dir):
-        print 'Payments config not found, looking for it here: ' + config_dir
-        print '... exiting.'
-        sys.exit(1)
-    pull(config_dir, prefix)
-
-
-def main():
-    generate_po('payments-config')
-    generate_mo('payments-config')
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
         '--repo',
         action='store',
-        choices=['payments-config'],
+        choices=['payments-config', 'payments-ui'],
         dest='repo',
         help='Repository to process',
     )
     parser.add_argument(
         '--action',
         action='store',
-        choices=['generate_po', 'generate_mo'],
+        choices=['generate_po', 'generate_mo', 'generate_pot'],
         dest='action',
         help='Action to do'
     )

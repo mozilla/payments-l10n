@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: payments-l 10n\n"
+"Language-Team: none\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2015-07-14 23:40+0000\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-07-14 23:40+0000\n"
+"Last-Translator: Automatically generated\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: public/dist/management.bundle.js:54
+msgid "Sign Out"
+msgstr ""
+
+#: public/dist/management.bundle.js:81
+msgid "Payment Accounts"
+msgstr ""
+
+#: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
+msgid "Change"
+msgstr ""
+
+#: public/dist/management.bundle.js:122
+msgid "Receipts and Subscriptions"
+msgstr ""
+
+#: public/dist/management.bundle.js:127
+msgid "View/Change"
+msgstr ""
+
+#: public/dist/management.bundle.js:149
+msgid "Email Address and Password"
+msgstr ""
+
+#: public/dist/management.bundle.js:174
+msgid "Delete Account"
+msgstr ""
+
+#: public/dist/management.bundle.js:179
+msgid "Delete"
+msgstr ""
+
+#: public/dist/payment.bundle.js:409
+msgid "Internal error. Please try again later."
+msgstr ""
+
+#: public/dist/payment.bundle.js:1504
+msgid "Signing in"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1528
+msgid "Loading"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1719
+msgid "per month"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1848
+msgid "Incorrect card number"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1849
+msgid "Card was declined"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1852
+msgid "Card number"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1859
+msgid "Invalid expiry date"
+msgstr ""
+
+#: public/dist/payment.bundle.js:1872
+msgid "Invalid CVV"
+msgstr ""
+
+#: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
+msgid "Subscribe"
+msgstr ""
+
+#: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
+msgid "CVV"
+msgstr ""
+
+#: public/dist/payment.bundle.js:5192
+msgid "CID"
+msgstr ""
+
+#: public/dist/payment.bundle.js:6093
+msgid "Add new credit card"
+msgstr ""
+
+#: public/dist/payment.bundle.js:6300
+msgid "Payment Accepted"
+msgstr ""
+
+#: public/dist/payment.bundle.js:6305
+msgid "Your receipt has been sent to"
+msgstr ""
+
+#: public/dist/payment.bundle.js:6312
+msgid "OK"
+msgstr ""
