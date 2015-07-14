@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-03 14:53-0700\n"
+"POT-Creation-Date: 2015-07-14 16:44-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,14 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /Users/andy/sandboxes/payments-config/payments_config/products.py:7
+#: /Users/andy/sandboxes/payments-l10n/../payments-config/payments_config/products.py:7
 msgid "Mozilla Concrete"
 msgstr ""
 
-#: /Users/andy/sandboxes/payments-config/payments_config/products.py:13
+#: /Users/andy/sandboxes/payments-l10n/../payments-config/payments_config/products.py:13
 msgid "Brick"
 msgstr ""
 
-#: /Users/andy/sandboxes/payments-config/payments_config/products.py:18
+#: /Users/andy/sandboxes/payments-l10n/../payments-config/payments_config/products.py:18
 msgid "Mortar"
 msgstr ""
