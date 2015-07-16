@@ -1,8 +1,8 @@
 A common repository for all l10n of payments.
 
 Assumes that:
-* (payments-config)[https://github.com/mozilla/payments-config/] is cloned at ../payments-config.
-* (payments-ui)[https://github.com/mozilla/payments-ui/] is cloned at ../payments-ui.
+* [payments-config](https://github.com/mozilla/payments-config/) is cloned at ../payments-config.
+* [payments-ui](https://github.com/mozilla/payments-ui/) is cloned at ../payments-ui.
 
 Commands:
 
