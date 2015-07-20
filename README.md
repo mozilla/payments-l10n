@@ -6,15 +6,17 @@ Assumes that:
 
 Commands:
 
-`python generate.py --repo=[repo] --action=[action]``
+`python generate.py --repo=[repo] --action=[action] [--debug]``
 
-* Supported repos: `payments-config`, `payments-ui`
+* `repo`: one of `payments-config`, `payments-ui`
 
-* Supported actions:
-    * `generate_pot`: generates the .pot files from the source.
-    * `generate_po`: generates the .po files from the .pot file for that repo.
-    * `generate_mo`: generates the .mo files from the .po file for that repo.
+* `action`:
+    * `pot`: generates the .pot files from the source.
+    * `po`: generates the .po files from the .pot file for that repo.
+    * `mo`: generates the .mo files from the .po file for that repo.
 
-Because xgettext doesn't support JavaScript files, `generate_pot` cannot
+* `debug`: defaults to false. If true, it will process the dbg language.
+
+Because xgettext doesn't support JavaScript files, `pot` cannot
 be run against `payments-ui`. Instead go to the `payments-ui` repo and use the
 extraction commands there.
