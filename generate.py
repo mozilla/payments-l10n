@@ -19,7 +19,7 @@ ready_locales = [
 root = os.path.abspath(os.path.join(os.path.dirname(__file__)))
 
 
-def generate_pot(prefix):
+def pot(prefix):
     print 'Generating .pot from {}.'.format(prefix)
     if prefix == 'payments-ui':
         raise ValueError('Use i18n abide to generate the .pot file.')
@@ -31,8 +31,17 @@ def generate_pot(prefix):
     os.system(cmd)
 
 
-def generate_po(prefix):
+def po(prefix, debug):
     print 'Generating .po from {}.'.format(prefix)
+
+    if debug:
+        print 'Generating dbg locale.'
+        cmd = ('podebug --rewrite=unicode locale/templates/LC_MESSAGES/{0}.pot '
+               'locale/dbg/LC_MESSAGES/{0}.po'
+               .format(prefix))
+        os.system(cmd)
+        return
+
     for locale in possible_locales:
         if locale == 'templates':
             continue
@@ -49,9 +58,9 @@ def generate_po(prefix):
         os.system(cmd)
 
 
-def generate_mo(prefix):
+def mo(prefix, debug):
     print 'Generating .mo for each .po file.'
-    for locale in possible_locales:
+    for locale in ['dbg' if debug else possible_locales]:
         cmd = ('msgfmt locale/{}/LC_MESSAGES/{}.po '
                '--output-file=locale/{}/LC_MESSAGES/{}.mo'
                .format(locale, prefix, locale, prefix))
@@ -71,9 +80,17 @@ if __name__ == '__main__':
     parser.add_argument(
         '--action',
         action='store',
-        choices=['generate_po', 'generate_mo', 'generate_pot'],
+        choices=['mo', 'po', 'pot'],
         dest='action',
         help='Action to do'
     )
+    parser.add_argument(
+        '--debug',
+        action='store_true',
+        dest='debug',
+        help='Run the debug locale, ignoring others, defaults to false.'
+    )
     parsed = parser.parse_args()
-    locals()[parsed.action](parsed.repo)
+    if parsed.debug:
+        print 'Only processing the debug language.'
+    locals()[parsed.action](parsed.repo, parsed.debug)
