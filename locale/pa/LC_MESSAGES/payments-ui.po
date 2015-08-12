@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Language-Team: none\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-07-14 23:40+0000\n"
+"PO-Revision-Date: 2015-08-12 17:47+0000\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2015-07-14 23:40+0000\n"
+"POT-Creation-Date: 2015-08-12 17:47+0000\n"
 "Last-Translator: Automatically generated\n"
 
-#: public/dist/management.bundle.js:54
+#: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
 msgstr ""
 
@@ -36,73 +36,219 @@ msgid "Email Address and Password"
 msgstr ""
 
 #: public/dist/management.bundle.js:174
+#: public/dist/management.bundle.min.js:55
 msgid "Delete Account"
 msgstr ""
 
 #: public/dist/management.bundle.js:179
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
 msgid "Delete"
 msgstr ""
 
-#: public/dist/payment.bundle.js:409
+#: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
+#: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
+#: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
 msgstr ""
 
-#: public/dist/payment.bundle.js:1504
+#: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
+#: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1528
+#: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1719
+#: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
+#: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
+#: public/dist/transaction.bundle.min.js:56
 msgid "per month"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1848
+#: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
+#: public/dist/transaction.bundle.min.js:49
 msgid "Incorrect card number"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1849
+#: public/dist/payment.bundle.js:1849 public/dist/bundle.js:31368
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1853
+#: public/dist/transaction.bundle.min.js:49
 msgid "Card was declined"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1852
+#: public/dist/payment.bundle.js:1852 public/dist/bundle.js:31371
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1856
+#: public/dist/transaction.bundle.min.js:49
 msgid "Card number"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1859
+#: public/dist/payment.bundle.js:1859 public/dist/bundle.js:31378
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1863
+#: public/dist/transaction.bundle.min.js:49
 msgid "Invalid expiry date"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1872
+#: public/dist/payment.bundle.js:1872 public/dist/bundle.js:31391
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
+#: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
 msgstr ""
 
 #: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
+#: public/dist/bundle.js:31530 public/dist/bundle.js:35766
+#: public/dist/payment.bundle.js:2011 public/dist/payment.bundle.js:6189
+#: public/dist/transaction.bundle.min.js:56
 msgid "Subscribe"
 msgstr ""
 
 #: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
+#: public/dist/bundle.js:34707 public/dist/bundle.js:34725
+#: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
+#: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
 msgstr ""
 
-#: public/dist/payment.bundle.js:5192
+#: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
+#: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
+#: public/dist/transaction.bundle.min.js:50
 msgid "CID"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6093
+#: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
+#: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6300
+#: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
+#: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
 msgid "Payment Accepted"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6305
+#: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
+#: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6312
+#: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
+#: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
+msgstr ""
+
+#: public/dist/bundle.js:31200
+msgid "Setting up"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:49
+msgid "Add Payment Method"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:49
+msgid "Add"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:49
+#: public/dist/management.bundle.min.js:55
+msgid "Back"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/transaction.bundle.min.js:55
+msgid "Submit"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "Delete Payment Method"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
+msgid "My Account"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "Edit My Account"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "Change email address and password"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid ""
+"When you delete your account, all of your subscriptions will be cancelled. "
+"This action cannot be undone. Are you sure you want to delete your account?"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "Delete account"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
+msgid "Subscriptions"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "You haven't subscribed to anything yet."
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Change payment account"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Cancel subscription"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Transaction Receipts & History"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Date"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "View transactions from all companies"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Amount"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "You haven't purchased anything yet."
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Payment Methods"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "You haven't added any credit cards yet"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Add a new card"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Please select"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+#: public/dist/transaction.bundle.min.js:55
+msgid "Initializing"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Close"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Receipts & History"
 msgstr ""

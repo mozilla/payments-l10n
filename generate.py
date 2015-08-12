@@ -19,7 +19,7 @@ ready_locales = [
 root = os.path.abspath(os.path.join(os.path.dirname(__file__)))
 
 
-def pot(prefix):
+def pot(prefix, debug):
     print 'Generating .pot from {}.'.format(prefix)
     if prefix == 'payments-ui':
         raise ValueError('Use i18n abide to generate the .pot file.')
