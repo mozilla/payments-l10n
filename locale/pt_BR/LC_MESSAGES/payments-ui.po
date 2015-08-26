@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-26 11:40\n"
+"PO-Revision-Date: 2015-08-26 14:16\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
@@ -124,22 +124,22 @@ msgstr ""
 #: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
 #: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
-msgstr ""
+msgstr "Adicionar novo cartão de crédito"
 
 #: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
 #: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Pagamento aceito"
 
 #: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
 #: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
-msgstr ""
+msgstr "O recibo foi enviado para"
 
 #: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
 #: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
@@ -147,38 +147,38 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
-msgstr ""
+msgstr "Adicionar forma de pagamento"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 #: public/dist/management.bundle.min.js:49
 #: public/dist/management.bundle.min.js:55
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/transaction.bundle.min.js:55
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Payment Method"
-msgstr ""
+msgstr "Excluir forma de pagamento"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "My Account"
-msgstr ""
+msgstr "Minha conta"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Edit My Account"
-msgstr ""
+msgstr "Editar minha conta"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Change email address and password"
-msgstr ""
+msgstr "Alterar endereço de e-mail e senha"
 
 #: public/dist/management.bundle.min.js:55
 msgid ""
@@ -188,7 +188,7 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
-msgstr ""
+msgstr "Excluir conta"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
@@ -201,7 +201,7 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
-msgstr ""
+msgstr "Alterar a conta de pagamento"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
@@ -229,7 +229,7 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
-msgstr ""
+msgstr "Formas de pagamento"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
@@ -241,16 +241,16 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr ""
+msgstr "Por favor, selecione"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
 msgid "Initializing"
-msgstr ""
+msgstr "Inicializando"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
