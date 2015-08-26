@@ -1,255 +1,259 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: payments-l 10n\n"
-"Language-Team: none\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-08-12 17:47+0000\n"
-"Language: sv\n"
+"POT-Creation-Date: 2015-08-12 17:47+0000\n"
+"PO-Revision-Date: 2015-08-26 08:42\n"
+"Last-Translator: az@kth.se <az@kth.se>\n"
+"Language-Team: none\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"Last-Translator: Automatically generated\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
-msgstr ""
+msgstr "Logga ut"
 
 #: public/dist/management.bundle.js:81
 msgid "Payment Accounts"
-msgstr ""
+msgstr "Betalningskonton"
 
 #: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
 msgid "Change"
-msgstr ""
+msgstr "Ändra"
 
 #: public/dist/management.bundle.js:122
 msgid "Receipts and Subscriptions"
-msgstr ""
+msgstr "Kvitton och prenumerationer"
 
 #: public/dist/management.bundle.js:127
 msgid "View/Change"
-msgstr ""
+msgstr "Visa/Ändra"
 
 #: public/dist/management.bundle.js:149
 msgid "Email Address and Password"
-msgstr ""
+msgstr "E-postadress och lösenord"
 
 #: public/dist/management.bundle.js:174
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Account"
-msgstr ""
+msgstr "Ta bort konto"
 
 #: public/dist/management.bundle.js:179
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
 #: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
-msgstr ""
+msgstr "Internt fel. Försök igen senare."
 
 #: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
 #: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
-msgstr ""
+msgstr "Loggar in"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
-msgstr ""
+msgstr "Laddar"
 
 #: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
 #: public/dist/transaction.bundle.min.js:56
 msgid "per month"
-msgstr ""
+msgstr "per månad"
 
 #: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
 #: public/dist/transaction.bundle.min.js:49
 msgid "Incorrect card number"
-msgstr ""
+msgstr "Felaktigt kortnummer"
 
 #: public/dist/payment.bundle.js:1849 public/dist/bundle.js:31368
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1853
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card was declined"
-msgstr ""
+msgstr "Kortet avvisades"
 
 #: public/dist/payment.bundle.js:1852 public/dist/bundle.js:31371
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1856
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card number"
-msgstr ""
+msgstr "Kortnummer"
 
 #: public/dist/payment.bundle.js:1859 public/dist/bundle.js:31378
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1863
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid expiry date"
-msgstr ""
+msgstr "Ogiltigt utgångsdatum"
 
 #: public/dist/payment.bundle.js:1872 public/dist/bundle.js:31391
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
-msgstr ""
+msgstr "Ogiltig CVV"
 
 #: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
 #: public/dist/bundle.js:31530 public/dist/bundle.js:35766
 #: public/dist/payment.bundle.js:2011 public/dist/payment.bundle.js:6189
 #: public/dist/transaction.bundle.min.js:56
 msgid "Subscribe"
-msgstr ""
+msgstr "Prenumerera"
 
 #: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
 #: public/dist/bundle.js:34707 public/dist/bundle.js:34725
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
 #: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
-msgstr ""
+msgstr "CVV"
 
 #: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
 #: public/dist/transaction.bundle.min.js:50
 msgid "CID"
-msgstr ""
+msgstr "CID"
 
 #: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
 #: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
-msgstr ""
+msgstr "Lägg till nytt kreditkort"
 
 #: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
 #: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Betalning godkänd"
 
 #: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
 #: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
-msgstr ""
+msgstr "Ditt kvitto har skickats till"
 
 #: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
 #: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
-msgstr ""
+msgstr "Konfigurerar"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
-msgstr ""
+msgstr "Lägg till betalningsmetod"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add"
-msgstr ""
+msgstr "Lägg till"
 
 #: public/dist/management.bundle.min.js:49
 #: public/dist/management.bundle.min.js:55
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/transaction.bundle.min.js:55
 msgid "Submit"
-msgstr ""
+msgstr "Skicka in"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Payment Method"
-msgstr ""
+msgstr "Ta bort betalningsmetod"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "My Account"
-msgstr ""
+msgstr "Mitt konto"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Edit My Account"
-msgstr ""
+msgstr "Redigera mitt konto"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Change email address and password"
-msgstr ""
+msgstr "Ändra e-postadress och lösenord"
 
 #: public/dist/management.bundle.min.js:55
 msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
 msgstr ""
+"När du tar bort ditt konto, kommer alla dina prenumerationer annulleras. "
+"Denna åtgärd kan inte ångras. Är du säker på att du vill ta bort ditt konto?"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
-msgstr ""
+msgstr "Ta bort konto"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Subscriptions"
-msgstr ""
+msgstr "Prenumerationer"
 
 #: public/dist/management.bundle.min.js:55
 msgid "You haven't subscribed to anything yet."
-msgstr ""
+msgstr "Du prenumererar inte på något ännu."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
-msgstr ""
+msgstr "Ändra betalkonto"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
-msgstr ""
+msgstr "Avbryt prenumeration"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Transaction Receipts & History"
-msgstr ""
+msgstr "Transaktioner kvitton & historik"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: public/dist/management.bundle.min.js:56
 msgid "View transactions from all companies"
-msgstr ""
+msgstr "Visa transaktioner från alla företag"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Amount"
-msgstr ""
+msgstr "Belopp"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "Du har inte köpt något ännu."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
-msgstr ""
+msgstr "Betalningsmetoder"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr ""
+msgstr "Du har inte lagt till några kreditkort ännu"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
-msgstr ""
+msgstr "Lägg till ett nytt kort"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr ""
+msgstr "Vänligen välj"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
 msgid "Initializing"
-msgstr ""
+msgstr "Initierar"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "Kvitton & historik"
