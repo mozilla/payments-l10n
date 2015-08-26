@@ -1,254 +1,260 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: payments-l 10n\n"
-"Language-Team: none\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-08-12 17:47+0000\n"
+"POT-Creation-Date: 2015-08-12 17:47+0000\n"
+"PO-Revision-Date: 2015-08-26 21:42+0000\n"
+"Last-Translator: milupo <milupo@sorbzilla.de>\n"
+"Language-Team: none\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"Last-Translator: Automatically generated\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1440625366.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
-msgstr ""
+msgstr "Wotzjewić"
 
 #: public/dist/management.bundle.js:81
 msgid "Payment Accounts"
-msgstr ""
+msgstr "Płaćenske konta"
 
 #: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
 msgid "Change"
-msgstr ""
+msgstr "Změnić"
 
 #: public/dist/management.bundle.js:122
 msgid "Receipts and Subscriptions"
-msgstr ""
+msgstr "Kwitowanki a trajne nadawki"
 
 #: public/dist/management.bundle.js:127
 msgid "View/Change"
-msgstr ""
+msgstr "Pokazać/Změnić"
 
 #: public/dist/management.bundle.js:149
 msgid "Email Address and Password"
-msgstr ""
+msgstr "E-mejlowa adresa a hesło"
 
 #: public/dist/management.bundle.js:174
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Account"
-msgstr ""
+msgstr "Konto zhašeć"
 
 #: public/dist/management.bundle.js:179
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Delete"
-msgstr ""
+msgstr "Zhašeć"
 
 #: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
 #: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
-msgstr ""
+msgstr "Nutřkowny zmylk. Prošu spytajće pozdźišo hišće raz."
 
 #: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
 #: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
-msgstr ""
+msgstr "Přizjewja so"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
-msgstr ""
+msgstr "Začitować"
 
 #: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
 #: public/dist/transaction.bundle.min.js:56
 msgid "per month"
-msgstr ""
+msgstr "na měsac"
 
 #: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
 #: public/dist/transaction.bundle.min.js:49
 msgid "Incorrect card number"
-msgstr ""
+msgstr "Wopačne kartowe čisło"
 
 #: public/dist/payment.bundle.js:1849 public/dist/bundle.js:31368
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1853
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card was declined"
-msgstr ""
+msgstr "Karta je so wotpokazała"
 
 #: public/dist/payment.bundle.js:1852 public/dist/bundle.js:31371
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1856
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card number"
-msgstr ""
+msgstr "Kartowe čisło"
 
 #: public/dist/payment.bundle.js:1859 public/dist/bundle.js:31378
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1863
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid expiry date"
-msgstr ""
+msgstr "Njepłaćiwy datum płaćiwosće"
 
 #: public/dist/payment.bundle.js:1872 public/dist/bundle.js:31391
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
-msgstr ""
+msgstr "Njepłaćiwy CVV"
 
 #: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
 #: public/dist/bundle.js:31530 public/dist/bundle.js:35766
 #: public/dist/payment.bundle.js:2011 public/dist/payment.bundle.js:6189
 #: public/dist/transaction.bundle.min.js:56
 msgid "Subscribe"
-msgstr ""
+msgstr "Trajny nadawk dać"
 
 #: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
 #: public/dist/bundle.js:34707 public/dist/bundle.js:34725
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
 #: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
-msgstr ""
+msgstr "CVV"
 
 #: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
 #: public/dist/transaction.bundle.min.js:50
 msgid "CID"
-msgstr ""
+msgstr "CID"
 
 #: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
 #: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
-msgstr ""
+msgstr "Nowu kreditnu kartu přidać"
 
 #: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
 #: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
 msgid "Payment Accepted"
-msgstr ""
+msgstr "Płaćenje akceptowane"
 
 #: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
 #: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
-msgstr ""
+msgstr "Waša kwitowanka je so pósłała do"
 
 #: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
 #: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
-msgstr ""
+msgstr "W porjadku"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
-msgstr ""
+msgstr "Zarjaduje so"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
-msgstr ""
+msgstr "Płaćensku metodu přidać"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add"
-msgstr ""
+msgstr "Přidać"
 
 #: public/dist/management.bundle.min.js:49
 #: public/dist/management.bundle.min.js:55
 msgid "Back"
-msgstr ""
+msgstr "Wróćo"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/transaction.bundle.min.js:55
 msgid "Submit"
-msgstr ""
+msgstr "Wotpósłać"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Payment Method"
-msgstr ""
+msgstr "Płaćensku metodu zhašeć"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "My Account"
-msgstr ""
+msgstr "Moje konto"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Edit My Account"
-msgstr ""
+msgstr "Moje konto wobdźěłać"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Change email address and password"
-msgstr ""
+msgstr "E-mejlowu adresu a hesko změnić"
 
 #: public/dist/management.bundle.min.js:55
 msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
 msgstr ""
+"Hdyž swoje konto zhašeće, so wšě waše trajne nadawki anuluja. Tuta akcija "
+"njeda so cofnyć. Chceće woprawdźe swoje konto zhašeć?"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
-msgstr ""
+msgstr "Konto zhašeć"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Subscriptions"
-msgstr ""
+msgstr "Trajne nadawki"
 
 #: public/dist/management.bundle.min.js:55
 msgid "You haven't subscribed to anything yet."
-msgstr ""
+msgstr "Hišće trajne nadawki nimaće."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
-msgstr ""
+msgstr "Płaćenske konto změnić"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
-msgstr ""
+msgstr "Trajny nadawk anulować"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Transaction Receipts & History"
-msgstr ""
+msgstr "Kwitowanki a historija transakcijow"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: public/dist/management.bundle.min.js:56
 msgid "View transactions from all companies"
-msgstr ""
+msgstr "Transakcije ze wšěch předewzaćow pokazać"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Amount"
-msgstr ""
+msgstr "Suma"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "Hišće njejsće ničo kupił."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
-msgstr ""
+msgstr "Płaćenske metody"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr ""
+msgstr "Hišće njejsće kreditowe karty přidał"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
-msgstr ""
+msgstr "Nowu kartu přidać"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr ""
+msgstr "Prošu wubjerće"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
 msgid "Initializing"
-msgstr ""
+msgstr "Inicializuje so"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
-msgstr ""
+msgstr "Začinić"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "Kwitowanki a historija"
