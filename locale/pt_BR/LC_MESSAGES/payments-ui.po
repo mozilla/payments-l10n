@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-12 17:47+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-08-26 11:40\n"
+"Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -16,15 +16,15 @@ msgstr ""
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
-msgstr ""
+msgstr "Sair"
 
 #: public/dist/management.bundle.js:81
 msgid "Payment Accounts"
-msgstr ""
+msgstr "Contas de pagamento"
 
 #: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
 msgid "Change"
-msgstr ""
+msgstr "Alterar"
 
 #: public/dist/management.bundle.js:122
 msgid "Receipts and Subscriptions"
@@ -36,40 +36,40 @@ msgstr ""
 
 #: public/dist/management.bundle.js:149
 msgid "Email Address and Password"
-msgstr ""
+msgstr "Endereço de e-mail e senha"
 
 #: public/dist/management.bundle.js:174
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Account"
-msgstr ""
+msgstr "Excluir conta"
 
 #: public/dist/management.bundle.js:179
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Delete"
-msgstr ""
+msgstr "Excluir"
 
 #: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
 #: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
-msgstr ""
+msgstr "Erro interno. Por favor, tente novamente mais tarde."
 
 #: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
 #: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
-msgstr ""
+msgstr "Entrando"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
-msgstr ""
+msgstr "Carregando"
 
 #: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
 #: public/dist/transaction.bundle.min.js:56
 msgid "per month"
-msgstr ""
+msgstr "por mês"
 
 #: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
