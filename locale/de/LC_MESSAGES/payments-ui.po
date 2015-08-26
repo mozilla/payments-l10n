@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-26 13:58+0000\n"
+"PO-Revision-Date: 2015-08-26 16:12+0000\n"
 "Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440597490.0\n"
+"X-POOTLE-MTIME: 1440605534.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
@@ -28,7 +28,7 @@ msgstr "Ändern"
 
 #: public/dist/management.bundle.js:122
 msgid "Receipts and Subscriptions"
-msgstr "Quittungen und Unterzeichnungen"
+msgstr "Quittungen und Daueraufträge"
 
 #: public/dist/management.bundle.js:127
 msgid "View/Change"
@@ -106,7 +106,7 @@ msgstr "Ungültiger CVV"
 #: public/dist/payment.bundle.js:2011 public/dist/payment.bundle.js:6189
 #: public/dist/transaction.bundle.min.js:56
 msgid "Subscribe"
-msgstr "Unterzeichnen"
+msgstr "Dauerauftrag einrichten"
 
 #: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
 #: public/dist/bundle.js:34707 public/dist/bundle.js:34725
@@ -185,8 +185,8 @@ msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
 msgstr ""
-"Wenn Sie Ihr Konto löschen, werden alle Ihrer Unterzeichnungen entfernt. "
-"Dies kann nicht rückgängig gemacht werden. Soll Ihr Konto wirklich gelöscht "
+"Wenn Sie Ihr Konto löschen, werden alle Ihrer Daueraufträge entfernt. Dies "
+"kann nicht rückgängig gemacht werden. Soll Ihr Konto wirklich gelöscht "
 "werden?"
 
 #: public/dist/management.bundle.min.js:55
@@ -196,11 +196,11 @@ msgstr "Konto löschen"
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Subscriptions"
-msgstr "Unterzeichnungen"
+msgstr "Daueraufträge"
 
 #: public/dist/management.bundle.min.js:55
 msgid "You haven't subscribed to anything yet."
-msgstr "Sie haben noch nichts unterzeichnet."
+msgstr "Sie haben noch keine Daueraufträge."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
@@ -208,7 +208,7 @@ msgstr "Zahlungskonto ändern"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
-msgstr "Unterzeichnung entfernen"
+msgstr "Dauerauftrag entfernen"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Transaction Receipts & History"
