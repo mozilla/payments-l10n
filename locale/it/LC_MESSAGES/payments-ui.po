@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-27 16:19+0000\n"
-"Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
+"PO-Revision-Date: 2015-09-01 21:24+0000\n"
+"Last-Translator: Sandro <gialloporpora@mozillaitalia.org>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440692375.0\n"
+"X-POOTLE-MTIME: 1441142657.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
@@ -99,7 +99,7 @@ msgstr "Data di scadenza non valida"
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
-msgstr "Codice di sicurezza carta non valido"
+msgstr "Codice CVV non valido"
 
 #: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
 #: public/dist/bundle.js:31530 public/dist/bundle.js:35766
@@ -113,13 +113,13 @@ msgstr "Sottoscrivi un abbonamento"
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
 #: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
-msgstr "Codice di sicurezza carta"
+msgstr "CVV"
 
 #: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
 #: public/dist/transaction.bundle.min.js:50
 msgid "CID"
-msgstr "Numero di identificazione (CID)"
+msgstr "CID"
 
 #: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
 #: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
@@ -143,7 +143,7 @@ msgstr "OK"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
-msgstr "Impostazioni"
+msgstr "Configurazione in corso…"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
@@ -178,16 +178,16 @@ msgstr "Modifica account"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Change email address and password"
-msgstr "modifica indirizzo email e password"
+msgstr "Modifica indirizzo email e password"
 
 #: public/dist/management.bundle.min.js:55
 msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
 msgstr ""
-"Nel momento in cui l’account viene eliminato, tutti gli abbonamenti "
-"sottoscritti verranno annullati. Questa operazione è definitiva e non può "
-"essere annullata. Eliminare davvero l’account?"
+"Eliminando un account, tutti i relativi abbonamenti sottoscritti verranno "
+"annullati. Questa operazione è definitiva e non può essere annullata. "
+"Procedere con l’eliminazione dell’account?"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
@@ -212,7 +212,7 @@ msgstr "Annulla abbonamento"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Transaction Receipts & History"
-msgstr "Ricevute delle transazioni e attività"
+msgstr "Ricevute e cronologia delle transazioni"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Date"
@@ -220,7 +220,7 @@ msgstr "Data"
 
 #: public/dist/management.bundle.min.js:56
 msgid "View transactions from all companies"
-msgstr "Visualizza le transazioni con qualunque società"
+msgstr "Visualizza le transazioni intercorse con tutte le società"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Amount"
@@ -228,7 +228,7 @@ msgstr "Somma"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr "Non hai effettuato alcun acquisto finora."
+msgstr "Non hai ancora effettuato acquisti."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
@@ -236,7 +236,7 @@ msgstr "Metodi di pagamento"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr "Non hai aggiunto alcuna carta di credito sinora"
+msgstr "Non hai ancora aggiunto carte di credito"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
@@ -244,7 +244,7 @@ msgstr "Aggiungi una nuova carta"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr "Selezionare un’opzione"
+msgstr "Seleziona un’opzione"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
