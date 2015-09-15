@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-09-15 00:08+0000\n"
+"PO-Revision-Date: 2015-09-15 02:07+0000\n"
 "Last-Translator: carlabosco <carlabosco@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
@@ -143,7 +143,7 @@ msgstr "OK"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
-msgstr ""
+msgstr "Configurando"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
@@ -220,15 +220,15 @@ msgstr "Data"
 
 #: public/dist/management.bundle.min.js:56
 msgid "View transactions from all companies"
-msgstr ""
+msgstr "Ver transações de todas as empresas"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Amount"
-msgstr ""
+msgstr "Valor"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "Você ainda não realizou nenhuma compra."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
@@ -236,11 +236,11 @@ msgstr "Formas de pagamento"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr ""
+msgstr "Você ainda não adicionou nenhum cartão de crédito"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
-msgstr ""
+msgstr "Adicionar um novo cartão"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
@@ -257,4 +257,4 @@ msgstr "Fechar"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "Recibos e Histórico"
