@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-09-16 10:05+0000\n"
+"PO-Revision-Date: 2015-09-17 09:23+0000\n"
 "Last-Translator: kusavica <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1442397934.0\n"
+"X-POOTLE-MTIME: 1442481791.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
@@ -20,7 +20,7 @@ msgstr "Odhlásiť sa"
 
 #: public/dist/management.bundle.js:81
 msgid "Payment Accounts"
-msgstr ""
+msgstr "Platobné účty"
 
 #: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
 msgid "Change"
@@ -53,17 +53,17 @@ msgstr "Odstrániť"
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
 #: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
-msgstr ""
+msgstr "Vnútorná chyba. Skúste to prosím neskôr."
 
 #: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
 #: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
-msgstr ""
+msgstr "Prihlasovanie"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
-msgstr ""
+msgstr "Načítavanie"
 
 #: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
@@ -225,7 +225,7 @@ msgstr "Suma"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "Ešte ste nič nekúpili."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
@@ -241,12 +241,12 @@ msgstr "Pridať novú kartu"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr ""
+msgstr "Prosím vyberte"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
 msgid "Initializing"
-msgstr ""
+msgstr "Inicializácia"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
@@ -254,4 +254,4 @@ msgstr "Zavrieť"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "Potvrdenia o platbe a história"
