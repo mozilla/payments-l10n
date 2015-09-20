@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-09-17 09:23+0000\n"
+"PO-Revision-Date: 2015-09-20 19:59+0000\n"
 "Last-Translator: kusavica <kusavica@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1442481791.0\n"
+"X-POOTLE-MTIME: 1442779168.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
@@ -201,7 +201,7 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
-msgstr ""
+msgstr "Zmeniť platobný účet"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
