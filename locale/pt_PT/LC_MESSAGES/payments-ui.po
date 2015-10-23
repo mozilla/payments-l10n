@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: payments-l 10n\n"
@@ -11,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1440628733.0\n"
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
@@ -185,8 +186,8 @@ msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
 msgstr ""
-"Quando elimina a sua conta, todas as suas subscrições serão canceladas. Esta "
-"ação não pode ser anulada. Tem a certeza que pretende eliminar a sua conta?"
+"Quando elimina a sua conta, todas as suas subscrições serão canceladas. Esta"
+" ação não pode ser anulada. Tem a certeza que pretende eliminar a sua conta?"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
