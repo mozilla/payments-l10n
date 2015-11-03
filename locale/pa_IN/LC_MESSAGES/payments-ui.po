@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: payments-l 10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-12 17:47+0000\n"
+"PO-Revision-Date: 2015-09-20 09:03+0000\n"
+"Last-Translator: Pirthi <pirthi.d@gmail.com>\n"
+"Language-Team: none\n"
+"Language: pa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1442739790.0\n"
+
+#: public/dist/management.bundle.js:54
+#: public/dist/management.bundle.min.js:56
+msgid "Sign Out"
+msgstr "ਸਾਈਨ ਆਊਟ"
+
+#: public/dist/management.bundle.js:81
+msgid "Payment Accounts"
+msgstr "ਭੁਗਤਾਨ ਖਾਤਾ"
+
+#: public/dist/management.bundle.js:86
+#: public/dist/management.bundle.js:156
+msgid "Change"
+msgstr "ਬਦਲੋ"
+
+#: public/dist/management.bundle.js:122
+msgid "Receipts and Subscriptions"
+msgstr "ਰਸੀਦ ਅਤੇ ਗਾਹਕੀ"
+
+#: public/dist/management.bundle.js:127
+msgid "View/Change"
+msgstr "ਵੇਖੋ/ਬਦਲੋ"
+
+#: public/dist/management.bundle.js:149
+msgid "Email Address and Password"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ ਅਤੇ ਪਾਸਵਰਡ"
+
+#: public/dist/management.bundle.js:174
+#: public/dist/management.bundle.min.js:55
+msgid "Delete Account"
+msgstr "ਖਾਤਾ ਹਟਾਓ"
+
+#: public/dist/management.bundle.js:179
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
+msgid "Delete"
+msgstr "ਹਟਾਓ"
+
+#: public/dist/payment.bundle.js:409
+#: public/dist/bundle.js:9384
+#: public/dist/management.bundle.min.js:56
+#: public/dist/payment.bundle.js:412
+#: public/dist/transaction.bundle.min.js:55
+msgid "Internal error. Please try again later."
+msgstr "ਅੰਦਰੂਨੀ ਗਲਤੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।"
+
+#: public/dist/payment.bundle.js:1504
+#: public/dist/bundle.js:30923
+#: public/dist/payment.bundle.js:1508
+#: public/dist/transaction.bundle.min.js:55
+msgid "Signing in"
+msgstr "ਸਾਈਨ ਇਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: public/dist/payment.bundle.js:1528
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1532
+#: public/dist/transaction.bundle.min.js:49
+msgid "Loading"
+msgstr "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: public/dist/payment.bundle.js:1719
+#: public/dist/bundle.js:31238
+#: public/dist/management.bundle.min.js:56
+#: public/dist/payment.bundle.js:1723
+#: public/dist/transaction.bundle.min.js:56
+msgid "per month"
+msgstr "ਹਰੇਕ ਮਹੀਨੇ"
+
+#: public/dist/payment.bundle.js:1848
+#: public/dist/bundle.js:31367
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1852
+#: public/dist/transaction.bundle.min.js:49
+msgid "Incorrect card number"
+msgstr "ਗਲਤ ਕਾਰਡ ਨੰਬਰ"
+
+#: public/dist/payment.bundle.js:1849
+#: public/dist/bundle.js:31368
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1853
+#: public/dist/transaction.bundle.min.js:49
+msgid "Card was declined"
+msgstr "ਕਾਰਡ ਨਾ-ਮੰਨਜੂਰ ਕੀਤਾ ਗਿਆ ਸੀ"
+
+#: public/dist/payment.bundle.js:1852
+#: public/dist/bundle.js:31371
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1856
+#: public/dist/transaction.bundle.min.js:49
+msgid "Card number"
+msgstr "ਕਾਰਡ ਨੰਬਰ"
+
+#: public/dist/payment.bundle.js:1859
+#: public/dist/bundle.js:31378
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1863
+#: public/dist/transaction.bundle.min.js:49
+msgid "Invalid expiry date"
+msgstr "ਗਲਤ ਆਖਰੀ ਮਿਤੀ"
+
+#: public/dist/payment.bundle.js:1872
+#: public/dist/bundle.js:31391
+#: public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1876
+#: public/dist/transaction.bundle.min.js:49
+msgid "Invalid CVV"
+msgstr "ਗਲਤ ਸੀਵੀਵੀ"
+
+#: public/dist/payment.bundle.js:2007
+#: public/dist/payment.bundle.js:6185
+#: public/dist/bundle.js:31530
+#: public/dist/bundle.js:35766
+#: public/dist/payment.bundle.js:2011
+#: public/dist/payment.bundle.js:6189
+#: public/dist/transaction.bundle.min.js:56
+msgid "Subscribe"
+msgstr "ਗਾਹਕ ਬਣੋ"
+
+#: public/dist/payment.bundle.js:5183
+#: public/dist/payment.bundle.js:5201
+#: public/dist/bundle.js:34707
+#: public/dist/bundle.js:34725
+#: public/dist/management.bundle.min.js:50
+#: public/dist/payment.bundle.js:5187
+#: public/dist/payment.bundle.js:5205
+#: public/dist/transaction.bundle.min.js:50
+msgid "CVV"
+msgstr "ਸੀਵੀਵੀ"
+
+#: public/dist/payment.bundle.js:5192
+#: public/dist/bundle.js:34716
+#: public/dist/management.bundle.min.js:50
+#: public/dist/payment.bundle.js:5196
+#: public/dist/transaction.bundle.min.js:50
+msgid "CID"
+msgstr "ਸੀਆਈਡੀ"
+
+#: public/dist/payment.bundle.js:6093
+#: public/dist/bundle.js:35676
+#: public/dist/payment.bundle.js:6097
+#: public/dist/transaction.bundle.min.js:56
+msgid "Add new credit card"
+msgstr "ਨਵਾਂ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ"
+
+#: public/dist/payment.bundle.js:6300
+#: public/dist/bundle.js:35863
+#: public/dist/payment.bundle.js:6304
+#: public/dist/transaction.bundle.min.js:56
+msgid "Payment Accepted"
+msgstr "ਭੁਗਤਾਨ ਮੰਨਜੂਰ ਕੀਤੇ ਗਏ"
+
+#: public/dist/payment.bundle.js:6305
+#: public/dist/bundle.js:35865
+#: public/dist/payment.bundle.js:6309
+#: public/dist/transaction.bundle.min.js:56
+msgid "Your receipt has been sent to"
+msgstr "ਤੁਹਾਡਾ ਰਸ਼ੀਦ ਨੰਬਰ ਭੇਜ ਦਿੱਤਾ ਗਿਆ ਹੈ"
+
+#: public/dist/payment.bundle.js:6312
+#: public/dist/bundle.js:35868
+#: public/dist/payment.bundle.js:6316
+#: public/dist/transaction.bundle.min.js:56
+msgid "OK"
+msgstr "ਓਕੇ"
+
+#: public/dist/bundle.js:31200
+msgid "Setting up"
+msgstr "ਸੈਟਿੰਗ ਅੱਪ"
+
+#: public/dist/management.bundle.min.js:49
+msgid "Add Payment Method"
+msgstr "ਭੁਗਤਾਨ ਢੰਗ ਜੋੜੋ"
+
+#: public/dist/management.bundle.min.js:49
+msgid "Add"
+msgstr "ਜੋੜੋ"
+
+#: public/dist/management.bundle.min.js:49
+#: public/dist/management.bundle.min.js:55
+msgid "Back"
+msgstr "ਪਿੱਛੇ"
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/transaction.bundle.min.js:55
+msgid "Submit"
+msgstr "ਭੇਜੋ"
+
+#: public/dist/management.bundle.min.js:55
+msgid "Delete Payment Method"
+msgstr "ਭੁਗਤਾਨ ਢੰਗ ਹਟਾਓ"
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
+msgid "My Account"
+msgstr "ਮੇਰਾ ਖਾਤਾ"
+
+#: public/dist/management.bundle.min.js:55
+msgid "Edit My Account"
+msgstr "ਮੇਰਾ ਖਾਤਾ ਸੋਧੋ"
+
+#: public/dist/management.bundle.min.js:55
+msgid "Change email address and password"
+msgstr "ਈਮੇਲ ਐਡਰੈਸ ਅਤੇ ਪਾਸਵਰਡ ਬਦਲੋ"
+
+#: public/dist/management.bundle.min.js:55
+msgid ""
+"When you delete your account, all of your subscriptions will be cancelled. "
+"This action cannot be undone. Are you sure you want to delete your account?"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:55
+msgid "Delete account"
+msgstr "ਖਾਤਾ ਹਟਾਓ"
+
+#: public/dist/management.bundle.min.js:55
+#: public/dist/management.bundle.min.js:56
+msgid "Subscriptions"
+msgstr "ਗਾਹਕੀ"
+
+#: public/dist/management.bundle.min.js:55
+msgid "You haven't subscribed to anything yet."
+msgstr "ਤੁਸੀਂ ਹਾਲੇ ਤੱਕ ਗਾਹਕ ਨਹੀਂ ਬਣੇ ਹੋ।"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Change payment account"
+msgstr "ਭੁਗਤਾਨ ਖਾਤਾ ਬਦਲੋ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Cancel subscription"
+msgstr "ਗਾਹਕੀ ਰੱਦ ਕਰੋ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Transaction Receipts & History"
+msgstr "ਲੈਣ-ਦੇਣ ਰਸੀਦਾਂ ਅਤੇ ਅਤੀਤ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Date"
+msgstr "ਮਿਤੀ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "View transactions from all companies"
+msgstr ""
+
+#: public/dist/management.bundle.min.js:56
+msgid "Amount"
+msgstr "ਰਕਮ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "You haven't purchased anything yet."
+msgstr "ਤੁਸੀਂ ਹਾਲੇ ਤੱਕ ਕੁੱਝ ਵੀ ਨਹੀਂ ਖਰੀਦਿਆ।"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Payment Methods"
+msgstr "ਭੁਗਤਾਨ ਢੰਗ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "You haven't added any credit cards yet"
+msgstr "ਤੁਸੀਂ ਹਾਲੇ ਤੱਕ ਕੋਈ ਵੀ ਕਰੈਡਿਟ ਕਾਰਡ ਨਹੀਂ ਜੋੜਿਆ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Add a new card"
+msgstr "ਇੱਕ ਨਵਾਂ ਕਾਰਡ ਜੋੜੋ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Please select"
+msgstr "ਚੁਣੋ ਜੀ"
+
+#: public/dist/management.bundle.min.js:56
+#: public/dist/transaction.bundle.min.js:55
+msgid "Initializing"
+msgstr "ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Close"
+msgstr "ਬੰਦ"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Receipts & History"
+msgstr "ਰਸ਼ੀਦਾਂ ਅਤੇ ਅਤੀਤ"
