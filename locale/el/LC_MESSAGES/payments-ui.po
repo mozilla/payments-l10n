@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-12 17:47+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-11-14 16:42+0000\n"
+"Last-Translator: Joseph Psychas <sirios2222@yahoo.gr>\n"
 "Language-Team: none\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
-msgstr ""
+msgstr "Αποσύνδεση"
 
 #: public/dist/management.bundle.js:81
 msgid "Payment Accounts"
@@ -36,18 +36,18 @@ msgstr ""
 
 #: public/dist/management.bundle.js:149
 msgid "Email Address and Password"
-msgstr ""
+msgstr "Διευθύνσεις email και κωδικοί"
 
 #: public/dist/management.bundle.js:174
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Account"
-msgstr ""
+msgstr "Διαγραφή λογαριασμού"
 
 #: public/dist/management.bundle.js:179
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
@@ -58,7 +58,7 @@ msgstr ""
 #: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
 #: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
-msgstr ""
+msgstr "Είσοδος"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
@@ -75,31 +75,31 @@ msgstr ""
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
 #: public/dist/transaction.bundle.min.js:49
 msgid "Incorrect card number"
-msgstr ""
+msgstr "Λανθασμένος αριθμός κάρτας"
 
 #: public/dist/payment.bundle.js:1849 public/dist/bundle.js:31368
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1853
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card was declined"
-msgstr ""
+msgstr "Η κάρτα απορρίφτηκε"
 
 #: public/dist/payment.bundle.js:1852 public/dist/bundle.js:31371
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1856
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card number"
-msgstr ""
+msgstr "Αριθμός κάρτας"
 
 #: public/dist/payment.bundle.js:1859 public/dist/bundle.js:31378
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1863
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid expiry date"
-msgstr ""
+msgstr "Μη έγκυρη ημερομηνία λήξης"
 
 #: public/dist/payment.bundle.js:1872 public/dist/bundle.js:31391
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
-msgstr ""
+msgstr "Μή έγκυρο CVV"
 
 #: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
 #: public/dist/bundle.js:31530 public/dist/bundle.js:35766
@@ -113,18 +113,18 @@ msgstr ""
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
 #: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
-msgstr ""
+msgstr "CVV"
 
 #: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
 #: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
 #: public/dist/transaction.bundle.min.js:50
 msgid "CID"
-msgstr ""
+msgstr "CID"
 
 #: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
 #: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
-msgstr ""
+msgstr "Προσθήκη νέας πιστωτικής κάρτας"
 
 #: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
 #: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
@@ -139,7 +139,7 @@ msgstr ""
 #: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
 #: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
-msgstr ""
+msgstr "ΟΚ"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
@@ -147,38 +147,38 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
-msgstr ""
+msgstr "Προσθήκη μεθόδου πληρωμής"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add"
-msgstr ""
+msgstr "Προσθήκη"
 
 #: public/dist/management.bundle.min.js:49
 #: public/dist/management.bundle.min.js:55
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/transaction.bundle.min.js:55
 msgid "Submit"
-msgstr ""
+msgstr "Υποβολή"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete Payment Method"
-msgstr ""
+msgstr "Διαγραφή μεθόδου πληρωμής"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
 msgid "My Account"
-msgstr ""
+msgstr "Ο λογαριασμός μου"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Edit My Account"
-msgstr ""
+msgstr "Επεξεργασία λογαριασμού"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Change email address and password"
-msgstr ""
+msgstr "Αλλαγή διεύθυνσης email και κωδικού"
 
 #: public/dist/management.bundle.min.js:55
 msgid ""
@@ -188,7 +188,7 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
-msgstr ""
+msgstr "Διαγραφή λογαριασμού"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
@@ -209,35 +209,35 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Transaction Receipts & History"
-msgstr ""
+msgstr "Αποδείξεις και ιστορικό συναλλαγών"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Date"
-msgstr ""
+msgstr "Ημερομηνία"
 
 #: public/dist/management.bundle.min.js:56
 msgid "View transactions from all companies"
-msgstr ""
+msgstr "Προβολή συναλλαγών από όλες τις εταιρείες"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Amount"
-msgstr ""
+msgstr "Ποσό"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "Δεν έχετε αγοράσει κάτι ακόμα."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
-msgstr ""
+msgstr "Μέθοδοι πληρωμής"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr ""
+msgstr "Δεν έχετε προσθέσει καμία πιστωτική κάρτα ακόμα"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
-msgstr ""
+msgstr "Προσθήκη νέας κάρτας"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
@@ -250,8 +250,8 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
-msgstr ""
+msgstr "Κλείσιμο"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "Αποδείξεις και Ιστορικό"
