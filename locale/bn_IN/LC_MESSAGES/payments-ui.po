@@ -1,17 +1,19 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-12 17:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2015-08-12 17:47+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
-#: public/dist/management.bundle.js:54
-#: public/dist/management.bundle.min.js:56
+#: public/dist/management.bundle.js:54 public/dist/management.bundle.min.js:56
 msgid "Sign Out"
 msgstr ""
 
@@ -19,8 +21,7 @@ msgstr ""
 msgid "Payment Accounts"
 msgstr ""
 
-#: public/dist/management.bundle.js:86
-#: public/dist/management.bundle.js:156
+#: public/dist/management.bundle.js:86 public/dist/management.bundle.js:156
 msgid "Change"
 msgstr ""
 
@@ -47,130 +48,95 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: public/dist/payment.bundle.js:409
-#: public/dist/bundle.js:9384
-#: public/dist/management.bundle.min.js:56
-#: public/dist/payment.bundle.js:412
+#: public/dist/payment.bundle.js:409 public/dist/bundle.js:9384
+#: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:412
 #: public/dist/transaction.bundle.min.js:55
 msgid "Internal error. Please try again later."
 msgstr ""
 
-#: public/dist/payment.bundle.js:1504
-#: public/dist/bundle.js:30923
-#: public/dist/payment.bundle.js:1508
-#: public/dist/transaction.bundle.min.js:55
+#: public/dist/payment.bundle.js:1504 public/dist/bundle.js:30923
+#: public/dist/payment.bundle.js:1508 public/dist/transaction.bundle.min.js:55
 msgid "Signing in"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1528
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1532
-#: public/dist/transaction.bundle.min.js:49
+#: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
+#: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
 msgid "Loading"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1719
-#: public/dist/bundle.js:31238
-#: public/dist/management.bundle.min.js:56
-#: public/dist/payment.bundle.js:1723
+#: public/dist/payment.bundle.js:1719 public/dist/bundle.js:31238
+#: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
 #: public/dist/transaction.bundle.min.js:56
 msgid "per month"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1848
-#: public/dist/bundle.js:31367
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1852
+#: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
 #: public/dist/transaction.bundle.min.js:49
 msgid "Incorrect card number"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1849
-#: public/dist/bundle.js:31368
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1853
+#: public/dist/payment.bundle.js:1849 public/dist/bundle.js:31368
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1853
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card was declined"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1852
-#: public/dist/bundle.js:31371
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1856
+#: public/dist/payment.bundle.js:1852 public/dist/bundle.js:31371
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1856
 #: public/dist/transaction.bundle.min.js:49
 msgid "Card number"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1859
-#: public/dist/bundle.js:31378
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1863
+#: public/dist/payment.bundle.js:1859 public/dist/bundle.js:31378
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1863
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid expiry date"
 msgstr ""
 
-#: public/dist/payment.bundle.js:1872
-#: public/dist/bundle.js:31391
-#: public/dist/management.bundle.min.js:49
-#: public/dist/payment.bundle.js:1876
+#: public/dist/payment.bundle.js:1872 public/dist/bundle.js:31391
+#: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1876
 #: public/dist/transaction.bundle.min.js:49
 msgid "Invalid CVV"
 msgstr ""
 
-#: public/dist/payment.bundle.js:2007
-#: public/dist/payment.bundle.js:6185
-#: public/dist/bundle.js:31530
-#: public/dist/bundle.js:35766
-#: public/dist/payment.bundle.js:2011
-#: public/dist/payment.bundle.js:6189
+#: public/dist/payment.bundle.js:2007 public/dist/payment.bundle.js:6185
+#: public/dist/bundle.js:31530 public/dist/bundle.js:35766
+#: public/dist/payment.bundle.js:2011 public/dist/payment.bundle.js:6189
 #: public/dist/transaction.bundle.min.js:56
 msgid "Subscribe"
 msgstr ""
 
-#: public/dist/payment.bundle.js:5183
-#: public/dist/payment.bundle.js:5201
-#: public/dist/bundle.js:34707
-#: public/dist/bundle.js:34725
-#: public/dist/management.bundle.min.js:50
-#: public/dist/payment.bundle.js:5187
-#: public/dist/payment.bundle.js:5205
-#: public/dist/transaction.bundle.min.js:50
+#: public/dist/payment.bundle.js:5183 public/dist/payment.bundle.js:5201
+#: public/dist/bundle.js:34707 public/dist/bundle.js:34725
+#: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5187
+#: public/dist/payment.bundle.js:5205 public/dist/transaction.bundle.min.js:50
 msgid "CVV"
 msgstr ""
 
-#: public/dist/payment.bundle.js:5192
-#: public/dist/bundle.js:34716
-#: public/dist/management.bundle.min.js:50
-#: public/dist/payment.bundle.js:5196
+#: public/dist/payment.bundle.js:5192 public/dist/bundle.js:34716
+#: public/dist/management.bundle.min.js:50 public/dist/payment.bundle.js:5196
 #: public/dist/transaction.bundle.min.js:50
 msgid "CID"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6093
-#: public/dist/bundle.js:35676
-#: public/dist/payment.bundle.js:6097
-#: public/dist/transaction.bundle.min.js:56
+#: public/dist/payment.bundle.js:6093 public/dist/bundle.js:35676
+#: public/dist/payment.bundle.js:6097 public/dist/transaction.bundle.min.js:56
 msgid "Add new credit card"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6300
-#: public/dist/bundle.js:35863
-#: public/dist/payment.bundle.js:6304
-#: public/dist/transaction.bundle.min.js:56
+#: public/dist/payment.bundle.js:6300 public/dist/bundle.js:35863
+#: public/dist/payment.bundle.js:6304 public/dist/transaction.bundle.min.js:56
 msgid "Payment Accepted"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6305
-#: public/dist/bundle.js:35865
-#: public/dist/payment.bundle.js:6309
-#: public/dist/transaction.bundle.min.js:56
+#: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
+#: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
 msgstr ""
 
-#: public/dist/payment.bundle.js:6312
-#: public/dist/bundle.js:35868
-#: public/dist/payment.bundle.js:6316
-#: public/dist/transaction.bundle.min.js:56
+#: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
+#: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
 msgid "OK"
 msgstr ""
 
