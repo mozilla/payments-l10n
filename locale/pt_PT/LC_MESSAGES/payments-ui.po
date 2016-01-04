@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2015-08-26 22:38+0000\n"
+"PO-Revision-Date: 2016-01-04 13:05+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt_PT\n"
@@ -37,7 +37,7 @@ msgstr "Ver/Alterar"
 
 #: public/dist/management.bundle.js:149
 msgid "Email Address and Password"
-msgstr "Endereço de email e palavra-chave"
+msgstr "Endereço de e-mail e palavra-passe"
 
 #: public/dist/management.bundle.js:174
 #: public/dist/management.bundle.min.js:55
