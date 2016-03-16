@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2016-03-15 07:23+0000\n"
-"Last-Translator: rlaace423 <rlaace423@gmail.com>\n"
+"PO-Revision-Date: 2016-03-16 04:05+0000\n"
+"Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -184,11 +184,11 @@ msgstr "메일주소 및 비밀번호 변경"
 msgid ""
 "When you delete your account, all of your subscriptions will be cancelled. "
 "This action cannot be undone. Are you sure you want to delete your account?"
-msgstr ""
+msgstr "계정을 삭제 하는 경우, 모든 구독 정보가 취소됩니다. 이 작업은 되돌릴 수 없습니다. 계정을 삭제 하시겠습니까?"
 
 #: public/dist/management.bundle.min.js:55
 msgid "Delete account"
-msgstr ""
+msgstr "계정 삭제"
 
 #: public/dist/management.bundle.min.js:55
 #: public/dist/management.bundle.min.js:56
@@ -197,11 +197,11 @@ msgstr "구독"
 
 #: public/dist/management.bundle.min.js:55
 msgid "You haven't subscribed to anything yet."
-msgstr ""
+msgstr "아직 구독정보가 없습니다."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Change payment account"
-msgstr ""
+msgstr "지불계좌 변경"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Cancel subscription"
@@ -225,28 +225,28 @@ msgstr ""
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't purchased anything yet."
-msgstr ""
+msgstr "아직 아무것도 구매하지 않았습니다."
 
 #: public/dist/management.bundle.min.js:56
 msgid "Payment Methods"
-msgstr ""
+msgstr "지불 수단"
 
 #: public/dist/management.bundle.min.js:56
 msgid "You haven't added any credit cards yet"
-msgstr ""
+msgstr "아직 신용카드를 추가하지 않으셨습니다"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Add a new card"
-msgstr ""
+msgstr "새로운 카드 추가"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Please select"
-msgstr ""
+msgstr "선택해 주세요"
 
 #: public/dist/management.bundle.min.js:56
 #: public/dist/transaction.bundle.min.js:55
 msgid "Initializing"
-msgstr ""
+msgstr "초기화 중"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Close"
