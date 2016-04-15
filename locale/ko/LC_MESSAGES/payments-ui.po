@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-12 17:47+0000\n"
-"PO-Revision-Date: 2016-03-16 04:05+0000\n"
+"PO-Revision-Date: 2016-04-15 01:34+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ko\n"
@@ -69,7 +69,7 @@ msgstr "로딩 중"
 #: public/dist/management.bundle.min.js:56 public/dist/payment.bundle.js:1723
 #: public/dist/transaction.bundle.min.js:56
 msgid "per month"
-msgstr ""
+msgstr "/ 월"
 
 #: public/dist/payment.bundle.js:1848 public/dist/bundle.js:31367
 #: public/dist/management.bundle.min.js:49 public/dist/payment.bundle.js:1852
@@ -134,7 +134,7 @@ msgstr "결제가 승인되었습니다"
 #: public/dist/payment.bundle.js:6305 public/dist/bundle.js:35865
 #: public/dist/payment.bundle.js:6309 public/dist/transaction.bundle.min.js:56
 msgid "Your receipt has been sent to"
-msgstr ""
+msgstr "영수증을 보냈습니다"
 
 #: public/dist/payment.bundle.js:6312 public/dist/bundle.js:35868
 #: public/dist/payment.bundle.js:6316 public/dist/transaction.bundle.min.js:56
@@ -143,7 +143,7 @@ msgstr "확인"
 
 #: public/dist/bundle.js:31200
 msgid "Setting up"
-msgstr ""
+msgstr "설정"
 
 #: public/dist/management.bundle.min.js:49
 msgid "Add Payment Method"
@@ -254,4 +254,4 @@ msgstr "닫기"
 
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
-msgstr ""
+msgstr "영수증 & 기록"
